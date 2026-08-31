@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",UPHILLNEST2794 
+    "username": "UphillNest2794 ",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",PrivateSMP-rqqf.aternos.me
+    "ip": "PrivateSMP-rqqf.aternos.me",
     "port": 22566,
     "version": "",
     "try-creative": false
